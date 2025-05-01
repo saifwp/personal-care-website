@@ -1,6 +1,3 @@
-# personalcare-website  
-A custom WordPress website developed for **personal care services**. The site features **service listings**, **appointment booking forms**, and a fully responsive, **SEO-optimized design** that ensures a smooth, user-friendly experience.  
-
 # Personal Care Service Website – [Live Website](https://purecareaustralia.com.au/)
 
 ---
